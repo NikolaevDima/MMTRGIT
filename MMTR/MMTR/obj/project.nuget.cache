@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qme5WSylLuHtdQii/OPbiGr+Chz9j/Bk8AriN7iib6UAYnwmC34UDu4iGGR+cmjSIN9CVWuT0KqzME9D4iqmHQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Dima\\source\\repos\\MMTR\\MMTR\\MMTR.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Dima\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.10\\microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "C:\\Users\\Dima\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512",
+    "C:\\Users\\Dima\\.nuget\\packages\\microsoft.netcore.app.ref\\3.1.0\\microsoft.netcore.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
